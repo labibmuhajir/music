@@ -1,12 +1,17 @@
 # fitamusic
 
-A new Flutter project.
+A Flutter Music Player App.
 
-## Getting Started
+## Requirement 
+ - Android 4.1 Jelly Bean, iOS 9 or newer device
+ - Internet connection
 
-This project is a starting point for a Flutter application.
+## How to run this project
+ - flutter install on the git directory
+ - flutter run
 
-A few resources to get you started if this is your first Flutter project:
+
+More info about Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
